@@ -6,7 +6,7 @@ Bu site 1 günde Ödev tanıtımı için yapılmıştır.
 Paylaşım sebebi kendini geliştirmek isteyenlere önayak olunmasıdır. 
 
 1) php/veritabani.php  dosyasında eklediğiiz sql tablosunun bilgilerini girmeniz gerekmektedir.
-2) htaccess.php dosya adının .htaccess yapılması gerekmektedir.
+
 Giriş yapılması için
 Kullanıcı adı: admin
 şifre: 123
